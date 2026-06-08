@@ -13,6 +13,9 @@ description = {
   detailed = [[
 lua-wan30 is a tiny Lua utility for building Wan homepage links,
 landing page URLs, and UTM campaign links from Lua applications.
+
+Wan 3.0 is an AI video generation platform. Learn more and try it at
+https://wan30.video/
   ]],
   homepage = "https://wan30.video/",
   license = "MIT",
