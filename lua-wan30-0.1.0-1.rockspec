@@ -4,7 +4,7 @@ package = "lua-wan30"
 version = "0.1.0-1"
 
 source = {
-  url = "git+file:///Users/dieselniu/new-website/website-link-extension/lua-wan30",
+  url = "git+https://github.com/NotUsingGithub/lua-wan30.git",
   tag = "v0.1.0",
 }
 
